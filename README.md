@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jenish Vavadiya</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img  align="center" width=1100 height=500 alt="coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img  align="center" width=1000 height=500 alt="coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🔭 I’m currently working on **Backend Development Projects (Java Spring Boot)**
 
