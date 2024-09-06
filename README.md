@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Defi Projects (Blockchain)**
 
-- 🌱 I’m currently learning  **Solidity , defi , WEB3.0**
+- 🌱 I’m currently learning  **Rust, Solidity , defi , WEB3.0**
 
-- 💬 Ask me about **BlockChain , crypto , solidity, Java, DSA, and Spring Boot**
+- 💬 Ask me about **BlockChain ,Rust ,Solana, solidity, Java, DSA, and Spring Boot**
 
 - 📫 How to reach me **vavadiyajenish25@gmail.com**
 
