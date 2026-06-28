@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/jenishvavdiya25">twitter</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/jenish-vavadiya">linkedin</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/JemsPatel31">leetcode</a> &nbsp;·&nbsp;
-  <a href="https://jenishsol.xyz">jenishsol.xyz</a>
+  <a href="https://x.com/jenishvavdiya25">X</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jenish-vavadiya">Linkedin</a> &nbsp;·&nbsp;
+  <a href="https://github.com/jenish-25/jenish-25/blob/main/jenish-resumeS.pdf">Resume</a> &nbsp;·&nbsp;
+  <a href="https://jenishsol.xyz">Portfolio </a> &nbsp;·&nbsp;
+  <a href="https://medium.com/@vavadiyajenish25">Medium</a>
 </p>
 
 ---
@@ -30,28 +31,27 @@ impl Jenish {
     }
 }
 ```
+---
 
-I spend most of my time a few layers below the app — on-chain programs, execution paths, and the data that moves between the RPC and the wire. Currently going deep on Rust, Solana program design, and DeFi market structure.
+I spend most of my time a few layers below the app — on-chain programs, execution paths, and the data that moves between the RPC and the wire. Currently going deep on Rust, Solana program design, and Quant DeFi market structure.
+
 
 ### What I work on
+ 
+- **DeFi infrastructure** — oracle aggregation, subgraph indexing, gas optimization
+- **Bundling & arbitrage** — multi-venue routing across Orca, Raydium, Meteora, and PumpFun
+- **Proprietary AMM design** — pricing-oracle updates landing in 23 CUs
+- **Prediction market protocols** — BTC 5-minute and 15-minute markets
+- **Trading automation** — signal ingestion, position management, order routing, real-time risk controls
 
-- **On-chain infrastructure** — Solana programs, transaction pipelines, RPC / Geyser data flows
-- **MEV & arbitrage** — routing and execution across DEX liquidity (Jupiter, AMMs)
-- **DeFi systems** — liquidity, AMMs, and the plumbing that moves value on-chain
-- **Quant tooling** — signals, backtesting, and latency-sensitive execution
-
-### Building
-
-- **[solana-Jupiter-Arb-bot](https://github.com/jenish-25/solana-Jupiter-Arb-bot)** — Jupiter-routed arbitrage bot on Solana
-- **[jenishsol.xyz](https://github.com/jenish-25/jenishsol.xyz)** — personal site &amp; portfolio
 
 ### Stack
 
 ```
-[languages]      Rust · TypeScript · Solidity · Java · JavaScript
-[chain & web3]   Solana · Ethereum · Anchor · web3.js
-[backend & data] Node.js · Spring Boot · PostgreSQL · MongoDB
-[tooling]        Git · Docker · Linux
+[languages]      Rust · Python · SQL 
+[chains]         Solana · Ethereum · On-chain Analysis
+[specialties]    DEX · Perpetuals Indexing · MEV 
+[quant]          Pandas · NumPy · SciPy · Plotly · ClickHouse · Grafana · scikit-learn     
 ```
 
 ---
