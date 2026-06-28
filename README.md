@@ -1,27 +1,59 @@
-<h1 align="center">Hi 👋, I'm Jenish Vavadiya</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
-<img  align="center" width=1000 height=500 alt="coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<h1 align="center">Jenish Vavadiya</h1>
 
-- 🔭 I’m currently working on **Defi Projects (Blockchain)**
-
-- 🌱 I’m currently learning  **Rust, Solidity , defi , WEB3.0**
-
-- 💬 Ask me about **BlockChain ,Rust ,Solana, solidity, Java, DSA, and Spring Boot**
-
-- 📫 How to reach me **vavadiyajenish25@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@jenishvavdiya25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jenishvavdiya25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jenish-vavadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jenish-vavadiya" height="30" width="40" /></a>
-<a href="https://instagram.com/jems_patel31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jems_patel31" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jenishvavadiya31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jenishvavadiya31" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jemspatel31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jemspatel31" height="30" width="40" /></a>
+<p align="center">
+  <b>Solana&nbsp; ·&nbsp; MEV&nbsp; ·&nbsp; DeFi infrastructure&nbsp; ·&nbsp; low-latency systems</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://x.com/jenishvavdiya25">twitter</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jenish-vavadiya">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/JemsPatel31">leetcode</a> &nbsp;·&nbsp;
+  <a href="https://jenishsol.xyz">jenishsol.xyz</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenish-25&show_icons=true&locale=en&layout=compact" alt="jenish-25" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenish-25&show_icons=true&locale=en" alt="jenish-25" /></p>
+```rust
+struct Jenish {
+    role:  &'static str,
+    focus: [&'static str; 4],
+    edge:  &'static str,
+}
+
+impl Jenish {
+    fn new() -> Self {
+        Self {
+            role:  "quant & on-chain infrastructure dev",
+            focus: ["solana", "mev", "defi", "hft"],
+            edge:  "obsessed with what happens between the slot and the fill",
+        }
+    }
+}
+```
+
+I spend most of my time a few layers below the app — on-chain programs, execution paths, and the data that moves between the RPC and the wire. Currently going deep on Rust, Solana program design, and DeFi market structure.
+
+### What I work on
+
+- **On-chain infrastructure** — Solana programs, transaction pipelines, RPC / Geyser data flows
+- **MEV & arbitrage** — routing and execution across DEX liquidity (Jupiter, AMMs)
+- **DeFi systems** — liquidity, AMMs, and the plumbing that moves value on-chain
+- **Quant tooling** — signals, backtesting, and latency-sensitive execution
+
+### Building
+
+- **[solana-Jupiter-Arb-bot](https://github.com/jenish-25/solana-Jupiter-Arb-bot)** — Jupiter-routed arbitrage bot on Solana
+- **[jenishsol.xyz](https://github.com/jenish-25/jenishsol.xyz)** — personal site &amp; portfolio
+
+### Stack
+
+```
+[languages]      Rust · TypeScript · Solidity · Java · JavaScript
+[chain & web3]   Solana · Ethereum · Anchor · web3.js
+[backend & data] Node.js · Spring Boot · PostgreSQL · MongoDB
+[tooling]        Git · Docker · Linux
+```
+
+---
+
+<p align="center"><sub>open to collaborating on solana infra, mev, and defi tooling · reach me at vavadiyajenish25@gmail.com</sub></p>
